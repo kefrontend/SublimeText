@@ -1,7 +1,7 @@
 # SublimeText設定ファイル(win)
 
-##package.json
+* package.json
 インストールしたパッケージの一覧ファイル
 
-##shortcut.json
+* shortcut.json
 ショートカットキー一覧ファイル
