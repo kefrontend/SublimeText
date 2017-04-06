@@ -1,4 +1,4 @@
-# SublimeText設定ファイル(win)
+## SublimeText設定ファイル(win)
 
 ### package.json
 インストールしたパッケージの一覧ファイル
